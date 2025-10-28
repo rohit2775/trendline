@@ -71,6 +71,7 @@ main{
     text-transform: uppercase;
     font-weight: 600;
 
+
 }
 #content{
     height: calc(100% - 150px);
@@ -89,6 +90,7 @@ main{
     flex-shrink: 0;
     height: 100%;
     width: 50%;
+    
     
     
     display: flex;
