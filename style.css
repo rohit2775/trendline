@@ -91,7 +91,7 @@ main{
     height: 100%;
     width: 50%;
     
-    
+
     
     display: flex;
     align-items: center;    
@@ -137,7 +137,7 @@ main{
     height: 100%;
     width: 100%;
     object-fit: cover;
-  
+   
     
    
   
@@ -145,7 +145,7 @@ main{
 #image-content::-webkit-scrollbar{
     background-color: transparent;
     height: 7px;
-
+ 
 }
 
 #image-content::-webkit-scrollbar-thumb{
@@ -292,8 +292,9 @@ main{
         
     }
     
-    
+     
 }
 
 
 
+ 
